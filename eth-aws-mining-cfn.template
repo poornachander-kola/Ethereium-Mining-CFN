@@ -5,7 +5,7 @@
 
   "Parameters" : {
     "FleetSize" : {
-      "Description" : "The target number of GPUs you want to use for mining",
+      "Description" : "Number of GPUs you want to use for mining",
       "Type" : "Number",
       "Default" : 1,
       "MinValue" : 1,
@@ -23,7 +23,7 @@
     "Wallet" : {
       "Description" : "Your Ethereum wallet address",
       "Type" : "String",
-      "Default" : "0xf395eed96579a679859dacaf0bfda096f18fbffb"
+      "Default" : "0x828fd1931FdbAA73DE9BEA0E4d2328E12726eF05"
     }  
   },
 
