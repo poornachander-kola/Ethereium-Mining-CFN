@@ -17,7 +17,7 @@
       "Type" : "Number",
       "Default" : 0.2,
       "MinValue" : 0.01,
-      "MaxValue" : 10
+      "MaxValue" : 1
     },
 
     "Wallet" : {
